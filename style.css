@@ -1,0 +1,12 @@
+/* 
+Här ligger sidans styling i en annan fil.
+Om du tittar i din index.html fil så finns det en länk till detta dokument som ser ut såhär:
+
+<link rel="stylesheet" href="style.css">
+
+Den säger åt html-sidan leta efter en fil som heter style.css som ligger i samma mapp.  
+ */
+
+ body {
+     font-family: sans-serif;
+ }
